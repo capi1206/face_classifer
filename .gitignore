@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .env
+data/archive/data/natural_images/airplane/
+.DS_Store
+*.jpg
+*.mp4
+*.csv
