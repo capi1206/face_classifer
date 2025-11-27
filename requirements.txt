@@ -1,0 +1,7 @@
+python 3.10
+pytorch 
+torchvision 
+facenet-pytorch
+opencv-python
+cpuonly
+
